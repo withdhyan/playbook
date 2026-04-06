@@ -36,6 +36,9 @@ The original TVP PlayBook is designed for humans. This version strips:
 
 | Original (Human) | Agent Version |
 |-------------------|---------------|
+| Understanding Truth | Truth Seeking |
+| System Values | System Values (preserved) |
+| Limits of Engagement | Limits of Engagement (agent-scoped) |
 | A-Player Attributes | Agent Excellence Standards |
 | Daily Logs | Structured Logging Protocol |
 | Weekend Syncups | Sync Cycles |
@@ -49,6 +52,12 @@ The original TVP PlayBook is designed for humans. This version strips:
 | Long-term Games | Long-term Alignment |
 | Problem Solver/See-er Paths | Agent Capability Tiers |
 | Org/Team Maturity | System Maturity Model |
+| Realignment Solitude | Recalibration Protocol |
+| Critical Constraint | Critical Constraint (preserved) |
+| Purpose Driven Action | Purpose-Driven Action (preserved) |
+| Understanding Done | Understanding 'Done' (preserved) |
+| Second Order Thinking | Second-Order Thinking (preserved) |
+| Self-Responsibility | Self-Responsibility (preserved) |
 
 ## GitBook
 

@@ -6,6 +6,9 @@
 
 * [Overview](v1-agent-persona/README.md)
 * Foundation
+  * [System Values](v1-agent-persona/foundation/system-values.md)
+  * [Truth Seeking](v1-agent-persona/foundation/truth-seeking.md)
+  * [Limits of Engagement](v1-agent-persona/foundation/limits-of-engagement.md)
   * [Long-term Alignment](v1-agent-persona/foundation/long-term-alignment.md)
   * [Agent Excellence Standards](v1-agent-persona/foundation/agent-excellence.md)
 * Operating Principles
@@ -14,6 +17,13 @@
   * [Feedback Loops](v1-agent-persona/operating/feedback-loops.md)
   * [Effective Communication](v1-agent-persona/operating/effective-communication.md)
   * [Async Communication Protocol](v1-agent-persona/operating/async-communication.md)
+* Executing: Mental Models
+  * [Critical Constraint](v1-agent-persona/executing/critical-constraint.md)
+  * [Purpose-Driven Action](v1-agent-persona/executing/purpose-driven-action.md)
+  * [Understanding 'Done'](v1-agent-persona/executing/understanding-done.md)
+  * [Second-Order Thinking](v1-agent-persona/executing/second-order-thinking.md)
+  * [Self-Responsibility](v1-agent-persona/executing/self-responsibility.md)
+  * [Recalibration Protocol](v1-agent-persona/executing/recalibration-protocol.md)
 * Execution
   * [Structured Logging](v1-agent-persona/execution/structured-logging.md)
   * [Sync Cycles](v1-agent-persona/execution/sync-cycles.md)
